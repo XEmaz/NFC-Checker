@@ -1,6 +1,6 @@
 # NFC Checker
 
-NFC Checker is a vibe coded external Flipper Zero app that compares a reference NFC tag
+NFC Checker is a vibe-coded external Flipper Zero app that compares a reference NFC tag
 with an emulated copy of itself to test if a real world reader would accept it as original. It reports an **Emulation Success Score** and
 shows which properties match, differ, or could not be checked.
 
