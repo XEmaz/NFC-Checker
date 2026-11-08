@@ -70,4 +70,4 @@ consult their documentation if your environment uses a different workflow.
 ## Credits
 
 - [XEmaz](https://github.com/xemaz) - main developer
-- [Claude](https://claude.ai) - code assistamce and debugging
+- [Claude](https://claude.ai) - code assistance and debugging
